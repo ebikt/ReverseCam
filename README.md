@@ -32,7 +32,7 @@ I did not perform any thorough tests with physical relay.
 
 ![Simple relay wiring](Relay.svg)
 
-But I don't like relays (they draw too much current for my taste). Thus I replaced relay with transistors:
+But I don't like relays (they draw too much current for my taste). Thus I replaced the relay with transistors:
 
 ![Transistor switcher wiring](USBSwitchHostCharging.svg)
 

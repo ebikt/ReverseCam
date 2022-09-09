@@ -1,0 +1,6 @@
+.*.sw?
+.sw?
+/KiCad-Spice-Library
+fp-info-cache
+*-bak
+*-backups/

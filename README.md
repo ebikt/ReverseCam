@@ -59,13 +59,23 @@ enable simulations in KiCad+ngspice.
 Which usb card? Which Android app? Which USB-C Cable?
 -----------------------------------------------------
 
-Camera: [nExt Camera - USB](https://play.google.com/store/apps/details?id=pl.nextcamera) works great with some
+App: [nExt Camera - USB](https://play.google.com/store/apps/details?id=pl.nextcamera) works great with UTV007 cards
 
-App: UTV007 card, e.g. [Gemird UVG-002](https://www.mironet.cz/gembird-uvg002-cerna-video-capturing-device-s-programovanim-tv-fm-usb+dp516087/)
+Camera: UTV007 card, e.g. [Gemird UVG-002](https://www.mironet.cz/gembird-uvg002-cerna-video-capturing-device-s-programovanim-tv-fm-usb+dp516087/)
 
 Cable: interconnecting USB-C cable - for these to work, there must be fifth wire in the cable, which is used
 by Android to detect if other end is a power bank, or some peripheral device that needs to be powered from
-battery of the Android device.
+battery of the Android device. Simply cut off one of the connectors.
+
+Alternative fast charging wiring
+--------------------------------
+
+Other option is to go for 3-pole physical relay and use standard USB-A to USB-C
+cable which does fastcharge your phone (can be verified e.g. with Ampere app,
+your device should be able to draw 1.5A when battery is below 75%), simply cut off USB-A
+connector or use USB-A plug on the switcher.
+
+![Alternative relay wiring](Relay3Pole.svg)
 
 Remarks
 -------

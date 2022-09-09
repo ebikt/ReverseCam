@@ -70,12 +70,9 @@ battery of the Android device. Simply cut off one of the connectors.
 Alternative fast charging wiring
 --------------------------------
 
-Other option is to go for 3-pole physical relay and use standard USB-A to USB-C
-cable which does fastcharge your phone (can be verified e.g. with Ampere app,
-your device should be able to draw 1.5A when battery is below 75%), simply cut off USB-A
-connector or use USB-A plug on the switcher.
-
-![Alternative relay wiring](Relay3Pole.svg)
+If you have problem with fast-charging use 4-pole relay (or two 2-pole relays, timing is not so crucial here),
+the two additional poles will disconnect data wires from usb-host. It may also help if it connects D+ and D-
+of the smartphone together when charging. Some (old) devices used this to detect charger.
 
 Remarks
 -------

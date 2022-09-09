@@ -40,7 +40,7 @@ L23500 53500
 stroke:#006464; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
 <text x="25000.000000" y="54749.960630"
-textLength="2229.173228" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+textLength="2296.653543" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
 text-anchor="middle" opacity="0">RHost</text>
 <g class="stroked-text"><desc>RHost</desc>
 <path d="M24321 54726
@@ -149,6 +149,197 @@ L25583 55628
 " />
 <path d="M25583 55295
 L25392 55485
+" />
+</g></g>
+</g>
+<g style="fill:#006464; fill-opacity:0.0; 
+stroke:#006464; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<g >
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:100.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<rect x="28000.000000" y="53100.000000" width="2000.000000" height="800.000000" rx="0.000000" />
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<path d="M30000 53500
+L30500 53500
+" />
+<path d="M28000 53500
+L27500 53500
+" />
+</g>
+<g style="fill:#006464; fill-opacity:0.0; 
+stroke:#006464; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<text x="29000.000000" y="54749.960630"
+textLength="3155.236220" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="middle" opacity="0">RCharge</text>
+<g class="stroked-text"><desc>RCharge</desc>
+<path d="M27857 54726
+L27690 54488
+" />
+<path d="M27571 54726
+L27571 54226
+L27761 54226
+L27809 54249
+L27833 54273
+L27857 54321
+L27857 54392
+L27833 54440
+L27809 54464
+L27761 54488
+L27571 54488
+" />
+<path d="M28357 54678
+L28333 54702
+L28261 54726
+L28214 54726
+L28142 54702
+L28095 54654
+L28071 54607
+L28047 54511
+L28047 54440
+L28071 54345
+L28095 54297
+L28142 54249
+L28214 54226
+L28261 54226
+L28333 54249
+L28357 54273
+" />
+<path d="M28571 54726
+L28571 54226
+" />
+<path d="M28785 54726
+L28785 54464
+L28761 54416
+L28714 54392
+L28642 54392
+L28595 54416
+L28571 54440
+" />
+<path d="M29238 54726
+L29238 54464
+L29214 54416
+L29166 54392
+L29071 54392
+L29023 54416
+" />
+<path d="M29238 54702
+L29190 54726
+L29071 54726
+L29023 54702
+L29000 54654
+L29000 54607
+L29023 54559
+L29071 54535
+L29190 54535
+L29238 54511
+" />
+<path d="M29476 54726
+L29476 54392
+" />
+<path d="M29476 54488
+L29500 54440
+L29523 54416
+L29571 54392
+L29619 54392
+" />
+<path d="M30000 54392
+L30000 54797
+L29976 54845
+L29952 54868
+L29904 54892
+L29833 54892
+L29785 54868
+" />
+<path d="M30000 54702
+L29952 54726
+L29857 54726
+L29809 54702
+L29785 54678
+L29761 54630
+L29761 54488
+L29785 54440
+L29809 54416
+L29857 54392
+L29952 54392
+L30000 54416
+" />
+<path d="M30428 54702
+L30380 54726
+L30285 54726
+L30238 54702
+L30214 54654
+L30214 54464
+L30238 54416
+L30285 54392
+L30380 54392
+L30428 54416
+L30452 54464
+L30452 54511
+L30214 54559
+" />
+</g><text x="29000.000000" y="55652.480315"
+textLength="1417.125984" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="middle" opacity="0">56k</text>
+<g class="stroked-text"><desc>56k</desc>
+<path d="M28678 55128
+L28440 55128
+L28416 55366
+L28440 55342
+L28488 55319
+L28607 55319
+L28654 55342
+L28678 55366
+L28702 55414
+L28702 55533
+L28678 55581
+L28654 55604
+L28607 55628
+L28488 55628
+L28440 55604
+L28416 55581
+" />
+<path d="M29130 55128
+L29035 55128
+L28988 55152
+L28964 55176
+L28916 55247
+L28892 55342
+L28892 55533
+L28916 55581
+L28940 55604
+L28988 55628
+L29083 55628
+L29130 55604
+L29154 55581
+L29178 55533
+L29178 55414
+L29154 55366
+L29130 55342
+L29083 55319
+L28988 55319
+L28940 55342
+L28916 55366
+L28892 55414
+" />
+<path d="M29392 55628
+L29392 55128
+" />
+<path d="M29440 55438
+L29583 55628
+" />
+<path d="M29583 55295
+L29392 55485
 " />
 </g></g>
 </g>
@@ -421,261 +612,135 @@ L31500 46500
 </g>
 </g>
 <g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<g >
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:100.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<rect x="28000.000000" y="53100.000000" width="2000.000000" height="800.000000" rx="0.000000" />
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<path d="M30000 53500
-L30500 53500
-" />
-<path d="M28000 53500
-L27500 53500
-" />
-</g>
-<g style="fill:#006464; fill-opacity:0.0; 
-stroke:#006464; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<text x="29000.000000" y="54749.960630"
-textLength="3157.755906" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="middle" opacity="0">RCharge</text>
-<g class="stroked-text"><desc>RCharge</desc>
-<path d="M27857 54726
-L27690 54488
-" />
-<path d="M27571 54726
-L27571 54226
-L27761 54226
-L27809 54249
-L27833 54273
-L27857 54321
-L27857 54392
-L27833 54440
-L27809 54464
-L27761 54488
-L27571 54488
-" />
-<path d="M28357 54678
-L28333 54702
-L28261 54726
-L28214 54726
-L28142 54702
-L28095 54654
-L28071 54607
-L28047 54511
-L28047 54440
-L28071 54345
-L28095 54297
-L28142 54249
-L28214 54226
-L28261 54226
-L28333 54249
-L28357 54273
-" />
-<path d="M28571 54726
-L28571 54226
-" />
-<path d="M28785 54726
-L28785 54464
-L28761 54416
-L28714 54392
-L28642 54392
-L28595 54416
-L28571 54440
-" />
-<path d="M29238 54726
-L29238 54464
-L29214 54416
-L29166 54392
-L29071 54392
-L29023 54416
-" />
-<path d="M29238 54702
-L29190 54726
-L29071 54726
-L29023 54702
-L29000 54654
-L29000 54607
-L29023 54559
-L29071 54535
-L29190 54535
-L29238 54511
-" />
-<path d="M29476 54726
-L29476 54392
-" />
-<path d="M29476 54488
-L29500 54440
-L29523 54416
-L29571 54392
-L29619 54392
-" />
-<path d="M30000 54392
-L30000 54797
-L29976 54845
-L29952 54868
-L29904 54892
-L29833 54892
-L29785 54868
-" />
-<path d="M30000 54702
-L29952 54726
-L29857 54726
-L29809 54702
-L29785 54678
-L29761 54630
-L29761 54488
-L29785 54440
-L29809 54416
-L29857 54392
-L29952 54392
-L30000 54416
-" />
-<path d="M30428 54702
-L30380 54726
-L30285 54726
-L30238 54702
-L30214 54654
-L30214 54464
-L30238 54416
-L30285 54392
-L30380 54392
-L30428 54416
-L30452 54464
-L30452 54511
-L30214 54559
-" />
-</g><text x="29000.000000" y="55652.480315"
-textLength="1417.125984" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="middle" opacity="0">56k</text>
-<g class="stroked-text"><desc>56k</desc>
-<path d="M28678 55128
-L28440 55128
-L28416 55366
-L28440 55342
-L28488 55319
-L28607 55319
-L28654 55342
-L28678 55366
-L28702 55414
-L28702 55533
-L28678 55581
-L28654 55604
-L28607 55628
-L28488 55628
-L28440 55604
-L28416 55581
-" />
-<path d="M29130 55128
-L29035 55128
-L28988 55152
-L28964 55176
-L28916 55247
-L28892 55342
-L28892 55533
-L28916 55581
-L28940 55604
-L28988 55628
-L29083 55628
-L29130 55604
-L29154 55581
-L29178 55533
-L29178 55414
-L29154 55366
-L29130 55342
-L29083 55319
-L28988 55319
-L28940 55342
-L28916 55366
-L28892 55414
-" />
-<path d="M29392 55628
-L29392 55128
-" />
-<path d="M29440 55438
-L29583 55628
-" />
-<path d="M29583 55295
-L29392 55485
-" />
-</g></g>
-</g>
-<g style="fill:#006464; fill-opacity:0.0; 
-stroke:#006464; stroke-width:62.519685; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-</g>
-<g style="fill:#006464; fill-opacity:0.0; 
-stroke:#006464; stroke-width:60.000000; stroke-opacity:1; 
+stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
 </g>
 <g style="fill:#840000; fill-opacity:0.0; 
 stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
-<text x="17937.480315" y="51785.748031"
-textLength="1464.763780" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="end" opacity="0">Gnd</text>
-<g class="stroked-text"><desc>Gnd</desc>
-<path d="M16883 51285
-L16836 51261
-L16764 51261
-L16693 51285
-L16645 51333
-L16621 51380
-L16597 51476
-L16597 51547
-L16621 51642
-L16645 51690
-L16693 51738
-L16764 51761
-L16812 51761
-L16883 51738
-L16907 51714
-L16907 51547
-L16812 51547
+<g transform="rotate(-90.000000 34535.748031 56687.519685)">
+<text x="34535.748031" y="56937.519685"
+textLength="967.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="end" opacity="0">5V</text>
+</g>
+<g class="stroked-text"><desc>5V</desc>
+<path d="M34261 57265
+L34261 57503
+L34500 57527
+L34476 57503
+L34452 57455
+L34452 57336
+L34476 57288
+L34500 57265
+L34547 57241
+L34666 57241
+L34714 57265
+L34738 57288
+L34761 57336
+L34761 57455
+L34738 57503
+L34714 57527
 " />
-<path d="M17121 51428
-L17121 51761
-" />
-<path d="M17121 51476
-L17145 51452
-L17193 51428
-L17264 51428
-L17312 51452
-L17336 51500
-L17336 51761
-" />
-<path d="M17788 51761
-L17788 51261
-" />
-<path d="M17788 51738
-L17740 51761
-L17645 51761
-L17597 51738
-L17574 51714
-L17550 51666
-L17550 51523
-L17574 51476
-L17597 51452
-L17645 51428
-L17740 51428
-L17788 51452
+<path d="M34261 57098
+L34761 56931
+L34261 56765
 " />
 </g><path style="fill:#840000; fill-opacity:0.0; 
 stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 18500.000000,51500.000000
-18062.480315,50999.842520
-16157.519685,50999.842520
-16157.519685,51500.000000
-16157.519685,52000.157480
-18062.480315,52000.157480
+d="M 34500.000000,56500.000000
+33999.842520,56500.000000
+33999.842520,57904.960630
+34500.000000,58342.480315
+35000.157480,57904.960630
+35000.157480,56500.000000
+Z" /> 
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<g transform="rotate(-90.000000 32035.748031 40437.480315)">
+<text x="32035.748031" y="40687.480315"
+textLength="1181.574803" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="start" opacity="0">D+</text>
+</g>
+<g class="stroked-text"><desc>D+</desc>
+<path d="M32261 40288
+L31761 40288
+L31761 40169
+L31785 40097
+L31833 40050
+L31880 40026
+L31976 40002
+L32047 40002
+L32142 40026
+L32190 40050
+L32238 40097
+L32261 40169
+L32261 40288
+" />
+<path d="M32071 39788
+L32071 39407
+" />
+<path d="M32261 39597
+L31880 39597
+" />
+</g><path style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;fill:none"
+d="M 32000.000000,41000.000000
+32500.157480,40562.480315
+32500.157480,38943.228346
+32000.000000,38505.708661
+31499.842520,38943.228346
+31499.842520,40562.480315
+Z" /> 
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<text x="17937.480315" y="44785.748031"
+textLength="967.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="end" opacity="0">5V</text>
+<g class="stroked-text"><desc>5V</desc>
+<path d="M17359 44261
+L17121 44261
+L17097 44500
+L17121 44476
+L17169 44452
+L17288 44452
+L17336 44476
+L17359 44500
+L17383 44547
+L17383 44666
+L17359 44714
+L17336 44738
+L17288 44761
+L17169 44761
+L17121 44738
+L17097 44714
+" />
+<path d="M17526 44261
+L17693 44761
+L17859 44261
+" />
+</g><path style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;fill:none"
+d="M 18500.000000,44500.000000
+18062.480315,43999.842520
+16657.519685,43999.842520
+16657.519685,44500.000000
+16657.519685,45000.157480
+18062.480315,45000.157480
 Z" /> 
 </g>
 <g style="fill:#840000; fill-opacity:0.0; 
@@ -745,75 +810,6 @@ d="M 26000.000000,41500.000000
 26000.000000,38720.000000
 25499.842520,39157.519685
 25499.842520,41062.480315
-Z" /> 
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<g transform="rotate(-90.000000 33035.748031 56687.519685)">
-<text x="33035.748031" y="56937.519685"
-textLength="1467.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="end" opacity="0">Gnd</text>
-</g>
-<g class="stroked-text"><desc>Gnd</desc>
-<path d="M32785 57741
-L32761 57788
-L32761 57860
-L32785 57931
-L32833 57979
-L32880 58003
-L32976 58027
-L33047 58027
-L33142 58003
-L33190 57979
-L33238 57931
-L33261 57860
-L33261 57812
-L33238 57741
-L33214 57717
-L33047 57717
-L33047 57812
-" />
-<path d="M32928 57503
-L33261 57503
-" />
-<path d="M32976 57503
-L32952 57479
-L32928 57431
-L32928 57360
-L32952 57312
-L33000 57288
-L33261 57288
-" />
-<path d="M33261 56836
-L32761 56836
-" />
-<path d="M33238 56836
-L33261 56884
-L33261 56979
-L33238 57027
-L33214 57050
-L33166 57074
-L33023 57074
-L32976 57050
-L32952 57027
-L32928 56979
-L32928 56884
-L32952 56836
-" />
-</g><path style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 33000.000000,56500.000000
-32499.842520,56500.000000
-32499.842520,58404.960630
-33000.000000,58842.480315
-33500.157480,58404.960630
-33500.157480,56500.000000
 Z" /> 
 </g>
 <g style="fill:#840000; fill-opacity:0.0; 
@@ -950,40 +946,83 @@ stroke-linecap:round; stroke-linejoin:round;">
 <g style="fill:#840000; fill-opacity:0.0; 
 stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
-<text x="17937.480315" y="44785.748031"
-textLength="967.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="end" opacity="0">5V</text>
-<g class="stroked-text"><desc>5V</desc>
-<path d="M17359 44261
-L17121 44261
-L17097 44500
-L17121 44476
-L17169 44452
-L17288 44452
-L17336 44476
-L17359 44500
-L17383 44547
-L17383 44666
-L17359 44714
-L17336 44738
-L17288 44761
-L17169 44761
-L17121 44738
-L17097 44714
+<g transform="rotate(-90.000000 30535.748031 40437.480315)">
+<text x="30535.748031" y="40687.480315"
+textLength="1181.574803" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="start" opacity="0">D-</text>
+</g>
+<g class="stroked-text"><desc>D-</desc>
+<path d="M30761 40288
+L30261 40288
+L30261 40169
+L30285 40097
+L30333 40050
+L30380 40026
+L30476 40002
+L30547 40002
+L30642 40026
+L30690 40050
+L30738 40097
+L30761 40169
+L30761 40288
 " />
-<path d="M17526 44261
-L17693 44761
-L17859 44261
+<path d="M30571 39788
+L30571 39407
 " />
 </g><path style="fill:#840000; fill-opacity:0.0; 
 stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 18500.000000,44500.000000
-18062.480315,43999.842520
-16657.519685,43999.842520
-16657.519685,44500.000000
-16657.519685,45000.157480
-18062.480315,45000.157480
+d="M 30500.000000,41000.000000
+31000.157480,40562.480315
+31000.157480,38943.228346
+30500.000000,38505.708661
+29999.842520,38943.228346
+29999.842520,40562.480315
+Z" /> 
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<g transform="rotate(-90.000000 29035.748031 40437.480315)">
+<text x="29035.748031" y="40687.480315"
+textLength="967.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="start" opacity="0">5V</text>
+</g>
+<g class="stroked-text"><desc>5V</desc>
+<path d="M28761 40050
+L28761 40288
+L29000 40312
+L28976 40288
+L28952 40240
+L28952 40121
+L28976 40074
+L29000 40050
+L29047 40026
+L29166 40026
+L29214 40050
+L29238 40074
+L29261 40121
+L29261 40240
+L29238 40288
+L29214 40312
+" />
+<path d="M28761 39883
+L29261 39716
+L28761 39550
+" />
+</g><path style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;fill:none"
+d="M 29000.000000,41000.000000
+29500.157480,40562.480315
+29500.157480,39157.519685
+29000.000000,38720.000000
+28499.842520,39157.519685
+28499.842520,40562.480315
 Z" /> 
 </g>
 <g style="fill:#840000; fill-opacity:0.0; 
@@ -1051,6 +1090,73 @@ d="M 18500.000000,46000.000000
 16157.519685,46000.000000
 16157.519685,46500.157480
 18062.480315,46500.157480
+Z" /> 
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<text x="17937.480315" y="51785.748031"
+textLength="1467.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="end" opacity="0">Gnd</text>
+<g class="stroked-text"><desc>Gnd</desc>
+<path d="M16883 51285
+L16836 51261
+L16764 51261
+L16693 51285
+L16645 51333
+L16621 51380
+L16597 51476
+L16597 51547
+L16621 51642
+L16645 51690
+L16693 51738
+L16764 51761
+L16812 51761
+L16883 51738
+L16907 51714
+L16907 51547
+L16812 51547
+" />
+<path d="M17121 51428
+L17121 51761
+" />
+<path d="M17121 51476
+L17145 51452
+L17193 51428
+L17264 51428
+L17312 51452
+L17336 51500
+L17336 51761
+" />
+<path d="M17788 51761
+L17788 51261
+" />
+<path d="M17788 51738
+L17740 51761
+L17645 51761
+L17597 51738
+L17574 51714
+L17550 51666
+L17550 51523
+L17574 51476
+L17597 51452
+L17645 51428
+L17740 51428
+L17788 51452
+" />
+</g><path style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;fill:none"
+d="M 18500.000000,51500.000000
+18062.480315,50999.842520
+16157.519685,50999.842520
+16157.519685,51500.000000
+16157.519685,52000.157480
+18062.480315,52000.157480
 Z" /> 
 </g>
 <g style="fill:#840000; fill-opacity:0.0; 
@@ -1224,213 +1330,66 @@ stroke-linecap:round; stroke-linejoin:round;">
 <g style="fill:#840000; fill-opacity:0.0; 
 stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
-<g transform="rotate(-90.000000 29035.748031 40437.480315)">
-<text x="29035.748031" y="40687.480315"
-textLength="967.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="start" opacity="0">5V</text>
+<g transform="rotate(-90.000000 33035.748031 56687.519685)">
+<text x="33035.748031" y="56937.519685"
+textLength="1467.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="end" opacity="0">Gnd</text>
 </g>
-<g class="stroked-text"><desc>5V</desc>
-<path d="M28761 40050
-L28761 40288
-L29000 40312
-L28976 40288
-L28952 40240
-L28952 40121
-L28976 40074
-L29000 40050
-L29047 40026
-L29166 40026
-L29214 40050
-L29238 40074
-L29261 40121
-L29261 40240
-L29238 40288
-L29214 40312
+<g class="stroked-text"><desc>Gnd</desc>
+<path d="M32785 57741
+L32761 57788
+L32761 57860
+L32785 57931
+L32833 57979
+L32880 58003
+L32976 58027
+L33047 58027
+L33142 58003
+L33190 57979
+L33238 57931
+L33261 57860
+L33261 57812
+L33238 57741
+L33214 57717
+L33047 57717
+L33047 57812
 " />
-<path d="M28761 39883
-L29261 39716
-L28761 39550
+<path d="M32928 57503
+L33261 57503
 " />
-</g><path style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 29000.000000,41000.000000
-29500.157480,40562.480315
-29500.157480,39157.519685
-29000.000000,38720.000000
-28499.842520,39157.519685
-28499.842520,40562.480315
-Z" /> 
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<g transform="rotate(-90.000000 30535.748031 40437.480315)">
-<text x="30535.748031" y="40687.480315"
-textLength="1181.574803" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="start" opacity="0">D-</text>
-</g>
-<g class="stroked-text"><desc>D-</desc>
-<path d="M30761 40288
-L30261 40288
-L30261 40169
-L30285 40097
-L30333 40050
-L30380 40026
-L30476 40002
-L30547 40002
-L30642 40026
-L30690 40050
-L30738 40097
-L30761 40169
-L30761 40288
+<path d="M32976 57503
+L32952 57479
+L32928 57431
+L32928 57360
+L32952 57312
+L33000 57288
+L33261 57288
 " />
-<path d="M30571 39788
-L30571 39407
+<path d="M33261 56836
+L32761 56836
+" />
+<path d="M33238 56836
+L33261 56884
+L33261 56979
+L33238 57027
+L33214 57050
+L33166 57074
+L33023 57074
+L32976 57050
+L32952 57027
+L32928 56979
+L32928 56884
+L32952 56836
 " />
 </g><path style="fill:#840000; fill-opacity:0.0; 
 stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 30500.000000,41000.000000
-31000.157480,40562.480315
-31000.157480,38943.228346
-30500.000000,38505.708661
-29999.842520,38943.228346
-29999.842520,40562.480315
-Z" /> 
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<g transform="rotate(-90.000000 32035.748031 40437.480315)">
-<text x="32035.748031" y="40687.480315"
-textLength="1181.574803" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="start" opacity="0">D+</text>
-</g>
-<g class="stroked-text"><desc>D+</desc>
-<path d="M32261 40288
-L31761 40288
-L31761 40169
-L31785 40097
-L31833 40050
-L31880 40026
-L31976 40002
-L32047 40002
-L32142 40026
-L32190 40050
-L32238 40097
-L32261 40169
-L32261 40288
-" />
-<path d="M32071 39788
-L32071 39407
-" />
-<path d="M32261 39597
-L31880 39597
-" />
-</g><path style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 32000.000000,41000.000000
-32500.157480,40562.480315
-32500.157480,38943.228346
-32000.000000,38505.708661
-31499.842520,38943.228346
-31499.842520,40562.480315
-Z" /> 
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<g transform="rotate(-90.000000 34535.748031 56687.519685)">
-<text x="34535.748031" y="56937.519685"
-textLength="967.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="end" opacity="0">5V</text>
-</g>
-<g class="stroked-text"><desc>5V</desc>
-<path d="M34261 57265
-L34261 57503
-L34500 57527
-L34476 57503
-L34452 57455
-L34452 57336
-L34476 57288
-L34500 57265
-L34547 57241
-L34666 57241
-L34714 57265
-L34738 57288
-L34761 57336
-L34761 57455
-L34738 57503
-L34714 57527
-" />
-<path d="M34261 57098
-L34761 56931
-L34261 56765
-" />
-</g><path style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 34500.000000,56500.000000
-33999.842520,56500.000000
-33999.842520,57904.960630
-34500.000000,58342.480315
-35000.157480,57904.960630
-35000.157480,56500.000000
-Z" /> 
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-</g>
-<g style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-<g transform="rotate(-90.000000 36035.748031 56687.519685)">
-<text x="36035.748031" y="56937.519685"
-textLength="1181.574803" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="end" opacity="0">D-</text>
-</g>
-<g class="stroked-text"><desc>D-</desc>
-<path d="M36261 57717
-L35761 57717
-L35761 57598
-L35785 57527
-L35833 57479
-L35880 57455
-L35976 57431
-L36047 57431
-L36142 57455
-L36190 57479
-L36238 57527
-L36261 57598
-L36261 57717
-" />
-<path d="M36071 57217
-L36071 56836
-" />
-</g><path style="fill:#840000; fill-opacity:0.0; 
-stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;fill:none"
-d="M 36000.000000,56500.000000
-35499.842520,56500.000000
-35499.842520,58119.251969
-36000.000000,58556.771654
-36500.157480,58119.251969
-36500.157480,56500.000000
+d="M 33000.000000,56500.000000
+32499.842520,56500.000000
+32499.842520,58404.960630
+33000.000000,58842.480315
+33500.157480,58404.960630
+33500.157480,56500.000000
 Z" /> 
 </g>
 <g style="fill:#840000; fill-opacity:0.0; 
@@ -1484,57 +1443,153 @@ stroke-linecap:round; stroke-linejoin:round;">
 <g style="fill:#840000; fill-opacity:0.0; 
 stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
+<g transform="rotate(-90.000000 36035.748031 56687.519685)">
+<text x="36035.748031" y="56937.519685"
+textLength="1181.574803" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="end" opacity="0">D-</text>
+</g>
+<g class="stroked-text"><desc>D-</desc>
+<path d="M36261 57717
+L35761 57717
+L35761 57598
+L35785 57527
+L35833 57479
+L35880 57455
+L35976 57431
+L36047 57431
+L36142 57455
+L36190 57479
+L36238 57527
+L36261 57598
+L36261 57717
+" />
+<path d="M36071 57217
+L36071 56836
+" />
+</g><path style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;fill:none"
+d="M 36000.000000,56500.000000
+35499.842520,56500.000000
+35499.842520,58119.251969
+36000.000000,58556.771654
+36500.157480,58119.251969
+36500.157480,56500.000000
+Z" /> 
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:62.519685; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+</g>
+<g style="fill:#840000; fill-opacity:0.0; 
+stroke:#840000; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
 </g>
 <g style="fill:#0000C2; fill-opacity:0.0; 
 stroke:#0000C2; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
-<text x="15500.000000" y="51862.480315"
-textLength="1324.409449" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="end" opacity="0">Car</text>
-<g class="stroked-text"><desc>Car</desc>
-<path d="M14612 51791
-L14589 51814
-L14517 51838
-L14470 51838
-L14398 51814
-L14350 51767
-L14327 51719
-L14303 51624
-L14303 51552
-L14327 51457
-L14350 51410
-L14398 51362
-L14470 51338
-L14517 51338
-L14589 51362
-L14612 51386
+<text x="16000.000000" y="45362.480315"
+textLength="2967.283465" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="end" opacity="0">Charger</text>
+<g class="stroked-text"><desc>Charger</desc>
+<path d="M13470 45291
+L13446 45314
+L13374 45338
+L13327 45338
+L13255 45314
+L13208 45267
+L13184 45219
+L13160 45124
+L13160 45052
+L13184 44957
+L13208 44910
+L13255 44862
+L13327 44838
+L13374 44838
+L13446 44862
+L13470 44886
 " />
-<path d="M15041 51838
-L15041 51576
-L15017 51529
-L14970 51505
-L14874 51505
-L14827 51529
+<path d="M13684 45338
+L13684 44838
 " />
-<path d="M15041 51814
-L14993 51838
-L14874 51838
-L14827 51814
-L14803 51767
-L14803 51719
-L14827 51671
-L14874 51648
-L14993 51648
-L15041 51624
+<path d="M13898 45338
+L13898 45076
+L13874 45029
+L13827 45005
+L13755 45005
+L13708 45029
+L13684 45052
 " />
-<path d="M15279 51838
-L15279 51505
+<path d="M14350 45338
+L14350 45076
+L14327 45029
+L14279 45005
+L14184 45005
+L14136 45029
 " />
-<path d="M15279 51600
-L15303 51552
-L15327 51529
-L15374 51505
-L15422 51505
+<path d="M14350 45314
+L14303 45338
+L14184 45338
+L14136 45314
+L14112 45267
+L14112 45219
+L14136 45171
+L14184 45148
+L14303 45148
+L14350 45124
+" />
+<path d="M14589 45338
+L14589 45005
+" />
+<path d="M14589 45100
+L14612 45052
+L14636 45029
+L14684 45005
+L14731 45005
+" />
+<path d="M15112 45005
+L15112 45410
+L15089 45457
+L15065 45481
+L15017 45505
+L14946 45505
+L14898 45481
+" />
+<path d="M15112 45314
+L15065 45338
+L14970 45338
+L14922 45314
+L14898 45291
+L14874 45243
+L14874 45100
+L14898 45052
+L14922 45029
+L14970 45005
+L15065 45005
+L15112 45029
+" />
+<path d="M15541 45314
+L15493 45338
+L15398 45338
+L15350 45314
+L15327 45267
+L15327 45076
+L15350 45029
+L15398 45005
+L15493 45005
+L15541 45029
+L15565 45076
+L15565 45124
+L15327 45171
+" />
+<path d="M15779 45338
+L15779 45005
+" />
+<path d="M15779 45100
+L15803 45052
+L15827 45029
+L15874 45005
+L15922 45005
 " />
 </g></g>
 <g style="fill:#0000C2; fill-opacity:0.0; 
@@ -2008,117 +2063,6 @@ stroke-linecap:round; stroke-linejoin:round;">
 <g style="fill:#0000C2; fill-opacity:0.0; 
 stroke:#0000C2; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
-<text x="16000.000000" y="45362.480315"
-textLength="2964.763780" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
-text-anchor="end" opacity="0">Charger</text>
-<g class="stroked-text"><desc>Charger</desc>
-<path d="M13470 45291
-L13446 45314
-L13374 45338
-L13327 45338
-L13255 45314
-L13208 45267
-L13184 45219
-L13160 45124
-L13160 45052
-L13184 44957
-L13208 44910
-L13255 44862
-L13327 44838
-L13374 44838
-L13446 44862
-L13470 44886
-" />
-<path d="M13684 45338
-L13684 44838
-" />
-<path d="M13898 45338
-L13898 45076
-L13874 45029
-L13827 45005
-L13755 45005
-L13708 45029
-L13684 45052
-" />
-<path d="M14350 45338
-L14350 45076
-L14327 45029
-L14279 45005
-L14184 45005
-L14136 45029
-" />
-<path d="M14350 45314
-L14303 45338
-L14184 45338
-L14136 45314
-L14112 45267
-L14112 45219
-L14136 45171
-L14184 45148
-L14303 45148
-L14350 45124
-" />
-<path d="M14589 45338
-L14589 45005
-" />
-<path d="M14589 45100
-L14612 45052
-L14636 45029
-L14684 45005
-L14731 45005
-" />
-<path d="M15112 45005
-L15112 45410
-L15089 45457
-L15065 45481
-L15017 45505
-L14946 45505
-L14898 45481
-" />
-<path d="M15112 45314
-L15065 45338
-L14970 45338
-L14922 45314
-L14898 45291
-L14874 45243
-L14874 45100
-L14898 45052
-L14922 45029
-L14970 45005
-L15065 45005
-L15112 45029
-" />
-<path d="M15541 45314
-L15493 45338
-L15398 45338
-L15350 45314
-L15327 45267
-L15327 45076
-L15350 45029
-L15398 45005
-L15493 45005
-L15541 45029
-L15565 45076
-L15565 45124
-L15327 45171
-" />
-<path d="M15779 45338
-L15779 45005
-" />
-<path d="M15779 45100
-L15803 45052
-L15827 45029
-L15874 45005
-L15922 45005
-" />
-</g></g>
-<g style="fill:#0000C2; fill-opacity:0.0; 
-stroke:#0000C2; stroke-width:62.519685; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
-</g>
-<g style="fill:#0000C2; fill-opacity:0.0; 
-stroke:#0000C2; stroke-width:60.000000; stroke-opacity:1; 
-stroke-linecap:round; stroke-linejoin:round;">
 <text x="17000.000000" y="39362.480315"
 textLength="8179.055118" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
 text-anchor="start" opacity="0">Smartphone or tablet</text>
@@ -2368,68 +2312,97 @@ L25053 39338
 L25101 39338
 " />
 </g></g>
+<g style="fill:#0000C2; fill-opacity:0.0; 
+stroke:#0000C2; stroke-width:62.519685; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+</g>
+<g style="fill:#0000C2; fill-opacity:0.0; 
+stroke:#0000C2; stroke-width:60.000000; stroke-opacity:1; 
+stroke-linecap:round; stroke-linejoin:round;">
+<text x="15500.000000" y="51862.480315"
+textLength="1321.889764" font-size="666.653543" lengthAdjust="spacingAndGlyphs"
+text-anchor="end" opacity="0">Car</text>
+<g class="stroked-text"><desc>Car</desc>
+<path d="M14612 51791
+L14589 51814
+L14517 51838
+L14470 51838
+L14398 51814
+L14350 51767
+L14327 51719
+L14303 51624
+L14303 51552
+L14327 51457
+L14350 51410
+L14398 51362
+L14470 51338
+L14517 51338
+L14589 51362
+L14612 51386
+" />
+<path d="M15041 51838
+L15041 51576
+L15017 51529
+L14970 51505
+L14874 51505
+L14827 51529
+" />
+<path d="M15041 51814
+L14993 51838
+L14874 51838
+L14827 51814
+L14803 51767
+L14803 51719
+L14827 51671
+L14874 51648
+L14993 51648
+L15041 51624
+" />
+<path d="M15279 51838
+L15279 51505
+" />
+<path d="M15279 51600
+L15303 51552
+L15327 51529
+L15374 51505
+L15422 51505
+" />
+</g></g>
 <g style="fill:#009600; fill-opacity:0.0; 
 stroke:#009600; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
-<path d="M27500 43500
-L27500 46500
-" />
-<path d="M20500 46000
-L20500 51500
-" />
-<path d="M20000 46000
-L18500 46000
-" />
-<path d="M30500 41000
-L30500 42500
-" />
-<path d="M30500 42500
-L36000 42500
-" />
-<path d="M31500 44500
-L31500 46500
-" />
-<path d="M23500 46000
-L20500 46000
-" />
-<path d="M23500 46000
-L23500 46500
-" />
-<path d="M18500 51500
-L20500 51500
+<path d="M30500 52500
+L30500 53500
 " />
 <path d="M33000 56000
 L33000 56500
 " />
-<path d="M29000 43500
-L34500 43500
-" />
-<path d="M32000 41000
-L32000 41500
-" />
-<path d="M20000 46000
-L20000 56000
-" />
-<path d="M23500 53500
-L23500 53000
-" />
 <path d="M34500 53500
 L34500 56500
-" />
-<path d="M20000 56000
-L33000 56000
 " />
 <path d="M34500 53000
 L32500 53000
 " />
-<path d="M23500 52500
-L23500 53000
+<path d="M30500 53500
+L34500 53500
 " />
-<path d="M37500 41500
-L37500 56500
+<path d="M32500 52500
+L32500 53000
 " />
-<path d="M32000 41500
-L37500 41500
+<path d="M18500 51500
+L20500 51500
+" />
+<path d="M27500 43500
+L27500 46500
+" />
+<path d="M32000 41000
+L32000 41500
+" />
+<path d="M30500 41000
+L30500 42500
+" />
+<path d="M29000 41000
+L29000 43500
 " />
 <path d="M34500 43500
 L34500 53000
@@ -2437,23 +2410,29 @@ L34500 53000
 <path d="M36000 42500
 L36000 56500
 " />
-<path d="M30500 53500
-L34500 53500
-" />
 <path d="M31500 44500
-L18500 44500
-" />
-<path d="M32500 52500
-L32500 53000
-" />
-<path d="M20000 43500
-L26000 43500
+L31500 46500
 " />
 <path d="M26000 41500
 L26000 43500
 " />
-<path d="M23500 53000
-L18500 53000
+<path d="M20500 46000
+L20500 51500
+" />
+<path d="M20000 46000
+L18500 46000
+" />
+<path d="M23500 46000
+L20500 46000
+" />
+<path d="M20000 46000
+L20000 53500
+" />
+<path d="M26500 52500
+L26500 53500
+" />
+<path d="M23500 52500
+L23500 53000
 " />
 <path d="M27500 52500
 L28500 52500
@@ -2461,24 +2440,48 @@ L28500 52500
 <path d="M27500 52500
 L27500 53500
 " />
-<path d="M26500 52500
-L26500 53500
-" />
-<path d="M30500 52500
-L30500 53500
-" />
 <path d="M20000 43500
 L20000 46000
 " />
-<path d="M29000 41000
-L29000 43500
+<path d="M31500 44500
+L18500 44500
+" />
+<path d="M37500 41500
+L37500 56500
+" />
+<path d="M20000 43500
+L26000 43500
+" />
+<path d="M20000 56000
+L33000 56000
+" />
+<path d="M23500 46000
+L23500 46500
+" />
+<path d="M20000 53500
+L20000 56000
+" />
+<path d="M23500 53000
+L18500 53000
+" />
+<path d="M20000 53500
+L23500 53500
+" />
+<path d="M29000 43500
+L34500 43500
+" />
+<path d="M32000 41500
+L37500 41500
+" />
+<path d="M30500 42500
+L36000 42500
 " />
 </g>
 <g style="fill:#009600; fill-opacity:1.0; 
 stroke:#009600; stroke-width:60.000000; stroke-opacity:1; 
 stroke-linecap:round; stroke-linejoin:round;">
 <circle cx="20000.000000" cy="46000.000000" r="180.000000" /> 
-<circle cx="23500.000000" cy="53000.000000" r="180.000000" /> 
+<circle cx="20000.000000" cy="53500.000000" r="180.000000" /> 
 <circle cx="30500.000000" cy="53500.000000" r="180.000000" /> 
 </g> 
 </svg>
